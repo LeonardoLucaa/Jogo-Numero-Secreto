@@ -2,8 +2,6 @@
 
 Jogo no navegador em que o jogador tenta descobrir um número sorteado entre 1 e 10. A cada chute, o jogo diz se o número secreto é maior ou menor e conta as tentativas.
 
-**Demo:** https://LeonardoLucaa.github.io/jogo-numero-secreto/
-
 ## Como jogar
 
 1. Digite um número de 1 a 10 e clique em **Chutar** (ou aperte Enter).
